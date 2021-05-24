@@ -1,14 +1,23 @@
-#titulo{
-    color:blueviolet;
+/* Seleçao pelo ID */
+#titulo {
+    color: #0000FF;
 }
 
-#primeiro-paragrafo{
-    color: plum;
-    background-color: lightblue;
+#primeiro-paragrafo {
+    color: aqua;
+    background-color: #000000;
 }
 
-#segundo-paragrafo{
-    color:gray;
-    background-color: palevioletred;
+#segundo-paragrafo {
+    color: chocolate;
+    background-color: rgb(0, 0, 255);
 }
 
+/* Seleçao pela Classe */
+.texto-vermelho {
+    color: #ff0000;
+}
+
+.fundo-amarelo {
+    background-color: yellow;
+}
