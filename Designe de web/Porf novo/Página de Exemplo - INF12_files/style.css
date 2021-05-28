@@ -1,0 +1,22 @@
+body {
+    background-color: #364156;
+    color: white;
+    font-family: Arial;
+}
+
+#titulo-geral {
+    background-color: #212d40;
+}
+
+h2 {
+    background-color: #ccdbdc;
+    color: black;
+}
+
+.subtitulo-h3 {
+    background-color: #7d4357;
+}
+
+a {
+    background-color: #d66853;
+}
